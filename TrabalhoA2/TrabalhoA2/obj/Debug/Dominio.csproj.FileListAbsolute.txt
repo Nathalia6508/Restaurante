@@ -1,0 +1,8 @@
+C:\Users\Felipe\OneDrive\Documentos\Faculdade\Trabalhos\POO\TrabalhoA2\TrabalhoA2\bin\Debug\TrabalhoA2.exe.config
+C:\Users\Felipe\OneDrive\Documentos\Faculdade\Trabalhos\POO\TrabalhoA2\TrabalhoA2\bin\Debug\TrabalhoA2.exe
+C:\Users\Felipe\OneDrive\Documentos\Faculdade\Trabalhos\POO\TrabalhoA2\TrabalhoA2\bin\Debug\TrabalhoA2.pdb
+C:\Users\Felipe\OneDrive\Documentos\Faculdade\Trabalhos\POO\TrabalhoA2\TrabalhoA2\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\Felipe\OneDrive\Documentos\Faculdade\Trabalhos\POO\TrabalhoA2\TrabalhoA2\obj\Debug\Dominio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Felipe\OneDrive\Documentos\Faculdade\Trabalhos\POO\TrabalhoA2\TrabalhoA2\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\OneDrive\Documentos\Faculdade\Trabalhos\POO\TrabalhoA2\TrabalhoA2\obj\Debug\TrabalhoA2.exe
+C:\Users\Felipe\OneDrive\Documentos\Faculdade\Trabalhos\POO\TrabalhoA2\TrabalhoA2\obj\Debug\TrabalhoA2.pdb
